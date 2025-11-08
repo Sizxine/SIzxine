@@ -1,17 +1,31 @@
-I'm Sizxine or you can call me David. I'm Community Manager of @BlockUniVN
- The Blockchain Academic Community, focus on knowledge, build career path and technical aspects
+Hi, I'm Sizxine (or you can call me David)
 
-<!--
-**Sizxine/SIzxine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Chemist with a passion for web3 and blockchain, where science meets innovation. I'm Community Manager of @BlockUniVN, The Blockchain Academic Community, focused on knowledge, building career paths, and technical aspects.
 
-Here are some ideas to get you started:
+As I began building in Web3, I came to realize something essential:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technology alone isn’t enough — understanding business is just as important.
+
+But I haven’t lost sight of what brought me here: cutting-edge technology.
+
+What I Care About
+
+⚙️ Building systems that scale as users grow
+
+🔒 Ensuring strong security from day one
+
+🧼 Writing clean, high-quality, maintainable code
+
+Now, I focus on creating crypto projects that are not only technically sound, but also strategically designed for real-world impact.
+
+Because in the end, real success means making both — the code and the business — truly great.
+
+Let's Connect
+
+If you're into building scalable, secure crypto solutions or just want to chat about chemistry, Web3, or innovative tech, feel free to reach out!
+
+Twitter/X: @sizxine1
+
+Email:sizxine@gmail.com
+
+Thanks for stopping by! 🚀
