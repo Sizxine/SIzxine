@@ -1,4 +1,5 @@
-## Hi there 👋
+I'm Sizxine or you can call me David. I'm Community Manager of @BlockUniVN
+ The Blockchain Academic Community, focus on knowledge, build career path and technical aspects
 
 <!--
 **Sizxine/SIzxine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
